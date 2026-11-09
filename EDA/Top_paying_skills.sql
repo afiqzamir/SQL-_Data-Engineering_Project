@@ -19,8 +19,8 @@ jpf.job_title_short = 'Data Engineer'
 AND jpf.job_work_from_home = True
 group by sd.skills 
 having count(sd.skills) >100
---order by freq desc
-order by skill_count desc
+order by freq desc
+--order by skill_count desc
 limit 25
 
 
