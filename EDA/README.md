@@ -2,7 +2,7 @@
 
 ![EDA Project Overview](../Resources/images/overview.png)
 
-A SQL project analyzing the data engineer job market using real world job posting data. It demonstrates my ability to **write production-quality analytical SQL, design efficient queries, and turn business questions into data-driven insights**.
+this SQL project is for analyzing the data engineer job market using real world job posting data. It demonstrates my ability to **write production-quality analytical SQL, design efficient queries, and turn business questions into data-driven insights**.
 
 **This work was result from learning Luke Barousse SQL for Data Engineering Course in Youtube**
 
@@ -17,9 +17,9 @@ A SQL project analyzing the data engineer job market using real world job postin
 
 If you only have a minute, review these:
 
-1. [`01_top_demanded_skills.sql`](./01_top_demanded_skills.sql) – demand analysis with multi-table joins  
-2. [`02_top_paying_skills.sql`](./02_top_paying_skills.sql) – salary analysis with aggregations  
-3. [`03_optimal_skills.sql`](./03_optimal_skills.sql) – combined demand/salary optimization query  
+1. [`01_top_demanded_skills.sql`](./top_demanded_skills.sql) – demand analysis with multi-table joins  
+2. [`02_top_paying_skills.sql`](./top_paying_skills.sql) – salary analysis with aggregations  
+3. [`03_optimal_skills.sql`](./Top_optimal_skills.sql) – combined demand/salary optimization query  
 
 ---
 
