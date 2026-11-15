@@ -1,4 +1,4 @@
-create or replace table main.priority_jobs_snapshot(
+create table main.priority_jobs_snapshot(
     job_id integer primary key,
     job_title_short varchar,
     company_name varchar,
@@ -39,3 +39,4 @@ min(updated_at)
 from priority_jobs_snapshot
 group by job_title_short
 order by job_count desc;
+
